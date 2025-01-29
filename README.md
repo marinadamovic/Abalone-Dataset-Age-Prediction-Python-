@@ -8,3 +8,6 @@ This project implements a machine learning model to predict the age of abalone b
 
 # Requirements
 Python, with `pandas`, `numpy`, `scikit-learn`, `matplotlib`
+
+## Note: 
+This project was part of a university exam, so some comments or files may be in Serbian.
