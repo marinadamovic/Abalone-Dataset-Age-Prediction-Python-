@@ -6,7 +6,7 @@ This project implements a machine learning model to predict the age of abalone b
 * Implementation of k-Nearest Neighbors (kNN) regression
 * Model evaluation and performance analysis
 
-#Process Overview:
+# Process Overview:
 _Cleaning:_
 Cleaned the dataset by handling missing values and encoding categorical variables. Feature scaling was applied to standardize features like length, diameter, height, and rings.
 
@@ -19,10 +19,10 @@ Implemented a k-Nearest Neighbors (kNN) regression model to predict the age of a
 
 _Evaluation:_
 Evaluated model performance using metrics like Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE). The model showed good predictive power with relatively low error margins.
-Conclusion:
 
+_Conclusion:_
 The analysis demonstrated that physical measurements like length, diameter, and height are strongly correlated with age prediction.
-The KNN model successfully predicted age with reasonable accuracy, but further model improvements could be explored using more advanced regression techniques.
+The kNN model successfully predicted age with reasonable accuracy, but further model improvements could be explored using more advanced regression techniques.
 
 # Requirements
 Python, with `pandas`, `numpy`, `scikit-learn`, `matplotlib`
